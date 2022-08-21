@@ -53,8 +53,8 @@ Config.DrivingSchools = {
 Config.Peds = {
     -- Cityhall Ped
     {
-        model = 'a_m_m_eastsa_02',
-        coords = vec4(-544.71, -205.09, 38.0, 210.05),
+        model = 'a_m_o_soucent_01',
+        coords = vector4(-543.69, -206.8, 37.75, 214.88),
         scenario = 'WORLD_HUMAN_STAND_MOBILE',
         cityhall = true,
         zoneOptions = { -- Used for when UseTarget is false
